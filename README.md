@@ -1,6 +1,6 @@
 # Credit Default Prediction Model with SHAP Explainability
 
-ML Engineer Track | Difficulty: Medium-Hard**
+ML Engineer Track |
 
 100% free and open-source tools only — no paid APIs, no credit card, runs on Google Colab's free tier.
 
